@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+
+
+<head>
+
+    <title>Edit Employee</title>
+
+</head>
+
+
+<body>
+
+
+<h2>Edit Employee</h2>
+
+
+
+<form action="/save" method="post"
+      th:object="${employee}">
+
+
+    <input type="hidden" th:field="*{id}">
+
+
+    Name:
+
+    <input type="text"
+           th:field="*{name}">
+    <br><br>
+
+
+
+    Email:
+
+    <input type="text"
+           th:field="*{email}">
+    <br><br>
+
+
+
+    Department:
+
+    <input type="text"
+           th:field="*{department}">
+    <br><br>
+
+
+
+    Salary:
+
+    <input type="text"
+           th:field="*{salary}">
+    <br><br>
+
+
+
+    <button type="submit">
+        Update
+    </button>
+
+
+
+</form>
+
+
+</body>
+
+</html>
