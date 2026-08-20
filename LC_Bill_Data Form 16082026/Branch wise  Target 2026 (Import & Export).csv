@@ -1,0 +1,254 @@
+SL,Branch_name,Import_No_of_LC,Import,Export_No_of_LC,Export
+,,,,,
+1,Local Office,0,50700,0,42000
+2,Corporate ,0,79300,0,6600
+3,Aulad Hossain Market ,0,146,0,0
+4,Badda ,0,172,0,0
+5,Banasree ,0,44,0,0
+6,Banga Bandhu Avenue ,0,34992,0,83807
+7,Circle-1 ,0,1324,0,0
+8,Dilkusha ,0,75654,0,99642
+9,Eastern Plaza ,0,2374,0,0
+10,Eskaton ,0,2815,0,94
+11,Fakirapool ,0,1623,0,0
+12,Foreign Exchange ,0,61020,0,96698
+13,Fulbaria ,0,3526,0,0
+14,Green Road ,0,203,0,0
+15,Gulshan ,0,32026,0,47652
+16,Hotel Intercontinental ,0,442,0,0
+17,Hotel Ishakha International ,0,1131,0,0
+18,Kawran Bazar ,0,16002,0,7743
+19,Ladies ,0,11,0,0
+20,Malibagh Chowdhury Para,0,171,0,0
+21,Moghbazar ,0,20,0,0
+22,Mohakhali ,0,1794,0,0
+23,Mugdapara ,0,415,0,0
+24,Nawabpur ,0,20412,0,807
+25,North Shahjahanpur ,0,95,0,0
+26,Panthapath ,0,2172,0,0
+27,Ramna ,0,13927,0,22646
+28,Shantinagar ,0,73089,0,111111
+29,AERE EPZ ,0,5283,0,9863
+30,Amin Bazar ,0,145,0,0
+31,Ashulia ,0,0,0,0
+32,Banijya Shakha,0,6968,0,26194
+33,BKSP ,0,44,0,0
+34,Darus Salam Road ,0,7196,0,9508
+35,Gazipura ,0,60,0,0
+36,Gheor ,0,0,0,0
+37,Joar Shahara ,0,116,0,0
+38,Joydebpur ,0,0,0,0
+39,Kalabagan ,0,11844,0,3159
+40,Konabari ,0,0,0,0
+41,Manikganj ,0,0,0,0
+42,Mirpur ,0,307,0,0
+43,Mohammadpur ,0,1397,0,0
+44,Nabagram ,0,0,0,0
+45,Pallabi ,0,7215,0,19689
+46,Rokeya Sarani ,0,2797,0,0
+47,Satmasjid Road ,0,19410,0,31134
+48,Savar ,0,0,0,0
+49,Shibalaya ,0,0,0,0
+50,Shyamoli ,0,618,0,0
+51,Tongi ,0,697,0,0
+52,Uttara ,0,25703,0,104153
+53,Azimpur ,0,20601,0,0
+54,Babu Bazar ,0,1810,0,0
+55,Bangla Bazar ,0,0,0,0
+56,Chawk Bazar (DHK) ,0,25642,0,85
+57,Dholaikhal ,0,3595,0,0
+58,Donia ,0,0,0,0
+59,Elephant Road ,0,856,0,0
+60,English Road ,0,4763,0,5315
+61,Hatkhola ,0,1241,0,0
+62,Imamgonj ,0,519,0,0
+63,Islampur ,0,12729,0,0
+64,Jatrabari ,0,50,0,0
+65,Johnson Road ,0,323,0,0
+66,Kaligonj ,0,0,0,0
+67,Mitford Road ,0,543,0,0
+68,Moulvibazar  (DHK),0,14421,0,0
+69,Nawabgonj ,0,47,0,0
+70,Naya Bazar ,0,2771,0,0
+71,New Market  (DHK),0,101,0,0
+72,Peelkhana ,0,62,0,0
+73,Posta ,0,1940,0,0
+74,Sadarghat  (DHK),0,1768,0,0
+75,Tipu Sultan Road ,0,1918,0,0
+76,Atia ,0,0,0,0
+77,Bhagalpur ,0,0,0,13
+78,Bhairab Bazar,0,1989,0,0
+79,Bhaluka,0,0,0,0
+80,Charpara ,0,0,0,0
+81,Haluaghat ,0,1919,0,52
+82,Jamalpur ,0,0,0,0
+83,Karimganj ,0,0,0,0
+84,Katiadi ,0,0,0,0
+85,Kishoregonj ,0,57,0,0
+86,Mothkhola ,0,0,0,0
+87,Mymensingh ,0,977,0,35
+88,Netrokona ,0,539,0,0
+89,Sherpur ,0,9,0,0
+90,Tangail ,0,110,0,0
+91,Araihazar,0,0,0,0
+92,Bhulta ,0,669,0,16
+93,D.I.T ,0,0,0,0
+94,Ghorasal ,0,0,0,0
+95,Ichhapura ,0,0,0,0
+96,Madhabdi Bazar ,0,0,0,0
+97,Munshiganj ,0,0,0,0
+98,Narayanganj ,0,6404,0,72984
+99,Narsingdi ,0,0,0,0
+100,Netaiganj ,0,0,0,0
+101,Postagola ,0,0,0,0
+102,Rekabi Bazar ,0,1019,0,0
+103,Sarkarkhana ,0,0,0,0
+104,Sonargaon ,0,1780,0,0
+105,Tan Bazar ,0,7628,0,0
+106,Baraiyarhat ,0,0,0,0
+107,Basurhat ,0,0,0,0
+108,Begumganj ,0,0,0,0
+109,BGSL ,0,375,0,0
+110,Birinchi ,0,0,0,0
+111,Brahmanbaria ,0,0,0,0
+112,Chandina ,0,2137,0,0
+113,Chandpur ,0,1083,0,0
+114,Chandragonj ,0,0,0,0
+115,Chowmuhani ,0,14,0,0
+116,Companigonj  (Cumilla),0,0,0,0
+117,Cumilla ,0,9109,0,10400
+118,Dharkhar ,0,0,0,0
+119,Feni ,0,562,0,0
+120,Gopinathpur ,0,0,0,0
+121,Hatiya,0,1997,0,0
+122,Laksam,0,0,0,0
+123,Laxmipur ,0,0,0,0
+124,Maijdee Court ,0,0,0,0
+125,Mudaforgonj ,0,0,0,0
+126,Raipur ,0,0,0,0
+127,Rajgonj Road ,0,423,0,0
+128,Sonapur ,0,0,0,0
+129,Agrabad ,0,41090,0,22215
+130,Bandarban ,0,0,0,0
+131,Bandartila ,0,0,0,0
+132,Bibirhat,0,0,0,0
+133,Chaktai ,0,0,0,0
+134,Chakaria,0,0,0,0
+135,Chawk Bazar (CTG) ,0,0,0,0
+136,Coxs Bazar ,0,0,0,0
+137,Halishahar ,0,81,0,0
+138,Jubilee Road ,0,775,0,0
+139,Katghar ,0,0,0,0
+140,Khagrachari ,0,0,0,0
+141,Khatungonj ,0,24688,0,610
+142,Laldighi ,0,20880,0,3875
+143,Lalkhan Bazar ,0,12,0,0
+144,Lohagara ,0,0,0,0
+145,Nasirabad ,0,2207,0,0
+146,Patiya ,0,0,0,0
+147,Rangamati ,0,0,0,0
+148,Reazuddin Bazar ,0,2271,0,0
+149,Sadarghat (CTG),0,135,0,0
+150,Sandwip ,0,0,0,0
+151,Sheikh Mujib Road ,0,2061,0,0
+152,Sitakunda ,0,0,0,0
+153,Teknaf ,0,0,0,0
+154,Ambarkhana ,0,235,0,0
+155,Baralekha,0,0,0,0
+156,Beani Bazar ,0,1298,0,0
+157,Bishwanath ,0,0,0,0
+158,Chhatak ,0,1182,0,0
+159,Chunarughat,0,0,0,0
+160,Companyganj  (Sylhet),0,26,0,0
+161,Dhaka Dakshin ,0,0,0,0
+162,Fenchuganj ,0,0,0,0
+163,Goala Bazar ,0,0,0,0
+164,Habiganj ,0,0,0,0
+165,Jagannathpur ,0,0,0,0
+166,Jaintapur ,0,842,0,0
+167,Kulaura ,0,0,0,0
+168,Laldighirpar ,0,0,0,0
+169,Mirpur Bazar ,0,0,0,0
+170,Mostafapur ,0,0,0,0
+171,Moulvibazar  (Sylhet),0,0,0,0
+172,Nabiganj ,0,0,0,0
+173,Nazir Bazar ,0,0,0,0
+174,Shahjalal Uposhahar ,0,742,0,0
+175,Sreemangal ,0,0,0,0
+176,Sunamganj ,0,3267,0,0
+177,Sylhet ,0,4308,0,0
+178,Bagerhat ,0,0,0,0
+179,Chuadanga ,0,6115,0,2208
+180,Daulatpur ,0,143,0,260
+181,Gopalgonj ,0,0,0,0
+182,Jashore ,0,8221,0,0
+183,Jhenaidah ,0,97,0,0
+184,K.D.A ,0,1960,0,0
+185,Khalishpur ,0,1744,0,0
+186,Lower Jashore Road ,0,153,0,0
+187,Magura ,0,648,0,0
+188,Mongla ,0,92,0,0
+189,Narail ,0,31,0,0
+190,Noapara ,0,2266,0,0
+191,Ramdia Bazar,0,0,0,0
+192,Sarojganj ,0,0,0,0
+193,Satkhira ,0,176,0,232
+194,Sir Iqbal Road ,0,10254,0,8000
+195,Barguna ,0,0,0,0
+196,Barishal ,0,2544,0,0
+197,Bhola ,0,0,0,0
+198,Charfashion ,0,0,0,0
+199,Chawk Bazar (BAR) ,0,0,0,0
+200,Daulatkhan ,0,0,0,0
+201,Faridpur ,0,16,0,1200
+202,Galachipa ,0,0,0,0
+203,Jhalakati ,0,0,0,0
+204,Khepupara ,0,0,0,0
+205,Lalmohan ,0,0,0,0
+206,Madaripur ,0,740,0,0
+207,Mathbaria ,0,0,0,0
+208,Patuakhali ,0,0,0,0
+209,Pirojpur ,0,0,0,0
+210,Rajbari ,0,0,0,0
+211,Shariatpur ,0,0,0,0
+212,Tajumuddin ,0,0,0,0
+213,Tekerhat ,0,0,0,0
+214,Bhangura ,0,0,0,0
+215,Bonpara ,0,0,0,0
+216,Chanchkoir ,0,36,0,0
+217,Chapainawabgonj ,0,632,0,0
+218,Ishwardi ,0,0,0,0
+219,Kansat ,0,4557,0,0
+220,Keshorhat ,0,23,0,0
+221,Kushtia ,0,753,0,87
+222,Lalpur ,0,63,0,0
+223,Mahisalbari ,0,0,0,0
+224,Meherpur ,0,0,0,0
+225,Natore ,0,5929,0,27482
+226,New Market  (Rajshahi),0,1408,0,728
+227,Pabna ,0,5622,0,12531
+228,Puthia ,0,0,0,0
+229,Rani Bazar ,0,1221,0,71
+230,Shaheb Bazar ,0,5856,0,401
+231,Bogura ,0,21841,0,6188
+232,Dinajpur ,0,0,0,0
+233,Gaibandha ,0,0,0,0
+234,Joypurhat ,0,0,0,0
+235,Kurigram ,0,40,0,0
+236,Lalmonirhat ,0,0,0,0
+237,Naogaon ,0,7372,0,0
+238,Nilphamari ,0,8,0,0
+239,Panchagarh ,0,0,0,0
+240,Phulbari ,0,1519,0,750
+241,Poura Park Market ,0,0,0,0
+242,Pulhat ,0,0,0,0
+243,Rangpur ,0,1448,0,1762
+244,Saidpur ,0,0,0,0
+245,Shahjadpur ,0,0,0,0
+246,Sirajgonj ,0,0,0,0
+247,Station Road ,0,0,0,0
+248,Subgacha ,0,0,0,0
+249,Thakurgaon ,0,99,0,0
+250,Ullapara ,0,373,0,0
+251,Head Office,0,0,0,0
+,Tottal,0,900000,0,900000
